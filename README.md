@@ -1,8 +1,7 @@
-## A Federated Learning research library - FedML: https://fedml.ai
 
-# Awesome-Federated-Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-Federated-Learning for NLP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of federated learning publications, re-organized from Arxiv (mostly).
+A curated list of federated learning publications, re-organized from Arxiv (mostly). We highlight the ones that are related to NLP applications.
 
 <strong>Last Update: July, 20th, 2021</strong>.	
 
